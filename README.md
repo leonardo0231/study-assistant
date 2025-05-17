@@ -107,6 +107,3 @@ pytest tests/
 3. Make changes and commit (`git commit -m "Add your message"`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
-=======
-# چت بات دستیار آموزش
->>>>>>> 6254a03a57e66fb89450ccfe97031863983a7a32
