@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Study Assistant ChatBot
 A simple FastAPI-based chatbot designed to answer study-related questions using natural language processing (NLP) and vector similarity search with FAISS. The chatbot retrieves answers from a predefined educational content file based on user queries.
 
